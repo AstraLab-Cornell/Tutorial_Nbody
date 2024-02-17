@@ -1,2 +1,2 @@
 # Nbody_tutorial
-Open tutorial_nbody.ipynb
+This is a tutorial for the Python N-body code.
