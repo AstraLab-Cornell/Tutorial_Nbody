@@ -1,3 +1,4 @@
 sim_data/*.npy
 figures_2D/*.png
 figures_3D/*.png
+/.mp4
