@@ -11,3 +11,7 @@ This tutorial will walk you through: (1) the description of the initial conditio
 
 Open the file "tutorial_nbody.ipynb" and follow the tutorial. Each step of the simulation is described within the same file.
 At the end of the tutorial, you will be able to generate 2D and 3D animations of the plume of electrospray thrusters.
+
+# Youtube tutorial
+
+A Youtube tutorial is available here: [www.youtube.com/watch?v=lYvyrfRBOeE](www.youtube.com/watch?v=lYvyrfRBOeE)
