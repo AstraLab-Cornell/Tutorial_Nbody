@@ -14,4 +14,4 @@ At the end of the tutorial, you will be able to generate 2D and 3D animations of
 
 # Youtube tutorial
 
-A Youtube tutorial is available here: [www.youtube.com/watch?v=lYvyrfRBOeE](www.youtube.com/watch?v=lYvyrfRBOeE)
+A Youtube tutorial is available here: [https://www.youtube.com/watch?v=lYvyrfRBOeE](https://www.youtube.com/watch?v=lYvyrfRBOeE)
